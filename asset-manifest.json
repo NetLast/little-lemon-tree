@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/little-lemon-tree/static/css/main.8c7ac9fd.css",
+    "main.js": "/little-lemon-tree/static/js/main.3243a716.js",
+    "static/media/restaurantfood.jpg": "/little-lemon-tree/static/media/restaurantfood.e8abf5b772b6817189aa.jpg",
+    "static/media/photo1.jpg": "/little-lemon-tree/static/media/photo1.6b73fd246a999fb8e32e.jpg",
+    "static/media/photo4.jpg": "/little-lemon-tree/static/media/photo4.bc130f63daeacfdc7b85.jpg",
+    "static/media/photo2.jpg": "/little-lemon-tree/static/media/photo2.1f3e2a391e8eb0ab30f9.jpg",
+    "static/media/photo3.jpg": "/little-lemon-tree/static/media/photo3.02f8c535dd070dee7de5.jpg",
+    "static/media/restaurant.jpg": "/little-lemon-tree/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/food-icon.png": "/little-lemon-tree/static/media/food-icon.2cb1a5a01fa1ed5867e8.png",
+    "static/media/Logo.svg": "/little-lemon-tree/static/media/Logo.2c379c7ea7eb07402bfc7700915316de.svg",
+    "static/media/beverage-icon.png": "/little-lemon-tree/static/media/beverage-icon.28d389220e2e115a576e.png",
+    "index.html": "/little-lemon-tree/index.html",
+    "main.8c7ac9fd.css.map": "/little-lemon-tree/static/css/main.8c7ac9fd.css.map",
+    "main.3243a716.js.map": "/little-lemon-tree/static/js/main.3243a716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c7ac9fd.css",
+    "static/js/main.3243a716.js"
+  ]
+}
