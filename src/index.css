@@ -1,0 +1,20 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+header, body, footer {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: inline-block;
+  flex-direction: column;
+  justify-items: left;
+  justify-content: left;
+  align-items: flex-end;
+  height: 100vh;
+}
+
